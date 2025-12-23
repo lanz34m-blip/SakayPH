@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SakayPH-Final",
+  "description": "A comprehensive ride-hailing platform featuring User, Driver, and Admin interfaces with integrated booking and fleet management.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
